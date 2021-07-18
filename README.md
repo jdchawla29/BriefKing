@@ -20,7 +20,7 @@ and add to the directory you'll work with.
 Open the terminal at directory where you want to clone the project
 
 ```
-git clone https://github.com/jdchawal29/BriefKing.git
+git clone https://github.com/jdchawla29/BriefKing.git
 cd BriefKing
 ```
 
